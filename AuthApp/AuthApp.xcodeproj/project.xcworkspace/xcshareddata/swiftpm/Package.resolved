@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Macaroni",
+        "repositoryURL": "https://github.com/bealex/Macaroni.git",
+        "state": {
+          "branch": null,
+          "revision": "788d375ec953ce432e849f7520187e3d3624968c",
+          "version": "2.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
